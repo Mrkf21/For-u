@@ -1,0 +1,645 @@
+html
+{
+    min-height:100;
+    overflow: hidden;
+    
+}
+body
+{
+    margin:0
+    padding:0;   
+    color: white;
+    background-color: rgb(25,25,25);
+  
+}
+div
+{
+    margin-top: 100px;
+}
+h
+{
+    text-align:justify;
+}
+.line
+{
+  
+    width: 100%;
+    
+    font-size:100%;  
+    text-align:left;
+    white-space: nowrap;
+    overflow: hidden; transform: translateY(-50%); 
+}
+
+
+.anim-typewriter
+{
+   animation: typewriter 2s steps(20) 1s 1 normal both,
+   blinkTextCursor 200ms steps(20) infinite normal;  
+}
+
+@keyframes typewriter
+{
+    from 
+    {
+        width:0;
+    }
+    to
+    {
+        width:100%;
+    }
+}
+
+@keyframes blinkTextCursor
+{
+    from
+    {
+        border-right-color: rgba (225, 225, 225, 0.75);
+    }
+    to
+    {
+        border-right-color: transparent;
+    }
+}
+
+.mark
+{
+  
+    width: 100%;
+    font-size:100%;  
+    text-align:left;
+    white-space: nowrap;
+    overflow: hidden; transform: translateY(-50%); 
+}
+
+
+.mark
+{
+   animation: typewriter 2s steps(20) 3s 1 normal both,
+   blinkTextCursor 200ms steps(20) infinite normal;  
+}
+
+@keyframes mark
+{
+    from 
+    {
+        width:0;
+    }
+    to
+    {
+        width:100%;
+    }
+}
+
+@keyframes blinkTextCursor
+{
+    from
+    {
+        border-right-color: rgba (225, 225, 225, 0.75);
+    }
+    to
+    {
+        border-right-color: transparent;
+    }
+}  
+
+
+.gg
+{
+  
+    width: 100%;
+    font-size:100%;  
+    text-align:left;
+    white-space: nowrap;
+    overflow: hidden; transform: translateY(-50%); 
+}
+
+.gg
+{
+   animation: typewriter 2s steps(20) 6s 1 normal both,
+   blinkTextCursor 200ms steps(20) infinite normal;  
+}
+
+@keyframes gg
+{
+    from 
+    {
+        width:0;
+    }
+    to
+    {
+        width:100%;
+    }
+}
+
+@keyframes blinkTextCursor
+{
+    from
+    {
+        border-right-color: rgba (225, 225, 225, 0.75);
+    }
+    to
+    {
+        border-right-color: transparent;
+    }
+
+}
+
+.ako
+{
+  
+    width: 100%;
+    font-size:100%;  
+    text-align:left;
+    white-space: nowrap;
+    overflow: hidden; transform: translateY(-50%); 
+}
+
+
+.ako
+{
+   animation: typewriter 2s steps(20) 9s 1 normal both,
+   blinkTextCursor 200ms steps(20) infinite normal;  
+}
+
+@keyframes ako
+{
+    from 
+    {
+        width:0;
+    }
+    to
+    {
+        width:100%;
+    }
+}
+
+@keyframes blinkTextCursor
+{
+    from
+    {
+        border-right-color: rgba (225, 225, 225, 0.75);
+    }
+    to
+    {
+        border-right-color: transparent;
+    }
+}
+
+.ikaw
+{
+  
+    width: 100%;
+    font-size:100%;  
+    text-align:left;
+    white-space: nowrap;
+    overflow: hidden; transform: translateY(-50%); 
+}
+
+
+.ikaw
+{
+   animation: typewriter 2s steps(20) 12s 1 normal both,
+   blinkTextCursor 200ms steps(20) infinite normal;  
+}
+
+@keyframes ikaw
+{
+    from 
+    {
+        width:0;
+    }
+    to
+    {
+        width:100%;
+    }
+}
+
+@keyframes blinkTextCursor
+{
+    from
+    {
+        border-right-color: rgba (225, 225, 225, 0.75);
+    }
+    to
+    {
+        border-right-color: transparent;
+    }
+}  
+
+
+.me
+{
+  
+    width: 100%;
+    font-size:100%;  
+    text-align:left;
+    white-space: nowrap;
+    overflow: hidden; transform: translateY(-50%); 
+}
+
+.me
+{
+   animation: typewriter 2s steps(20) 15s 1 normal both,
+   blinkTextCursor 200ms steps(20) infinite normal;  
+}
+
+@keyframes me
+{
+    from 
+    {
+        width:0;
+    }
+    to
+    {
+        width:100%;
+    }
+}
+
+@keyframes blinkTextCursor
+{
+    from
+    {
+        border-right-color: rgba (225, 225, 225, 0.75);
+    }
+    to
+    {
+        border-right-color: transparent;
+    }
+
+}
+
+.iyon
+{
+  
+    width: 100%;
+    font-size:100%;  
+    text-align:left;
+    white-space: nowrap;
+    overflow: hidden; transform: translateY(-50%); 
+}
+  
+.iyon
+{
+   animation: typewriter 2s steps(20) 18s 1 normal both,
+   blinkTextCursor 200ms steps(20) infinite normal;  
+}
+
+@keyframes iyon
+{
+    from 
+    {
+        width:0;
+    }
+    to
+    {
+        width:100%;
+    }
+}
+
+@keyframes blinkTextCursor
+{
+    frome
+    {
+        border-right-color: rgba (225, 225, 225, 0.75);
+    }
+    to
+    {
+        border-right-color: transparent;
+    }
+}
+
+.pro
+{
+  
+    width: 100%;
+    font-size:100%;  
+    text-align:left;
+    white-space: nowrap;
+    overflow: hidden; transform: translateY(-50%); 
+}
+
+
+.pro
+{
+   animation: typewriter 2s steps(20)  21s 1 normal both,
+   blinkTextCursor 200ms steps(20) infinite normal;  
+}
+
+@keyframes pro
+{
+    from 
+    {
+        width:0;
+    }
+    to
+    {
+        width:100%;
+    }
+}
+
+@keyframes blinkTextCursor
+{
+    from
+    {
+        border-right-color: rgba (225, 225, 225, 0.75);
+    }
+    to
+    {
+        border-right-color: transparent;
+    }
+}  
+
+
+.you
+{
+  
+    width: 100%;
+    font-size:100%;  
+    text-align:left;
+    white-space: nowrap;
+    overflow: hidden; transform: translateY(-50%); 
+}
+
+.you
+{
+   animation: typewriter 2s steps(20) 24s 1 normal both,
+   blinkTextCursor 200ms steps(20) infinite normal;  
+}
+
+@keyframes you
+{
+    from 
+    {
+        width:0;
+    }
+    to
+    {
+        width:100%;
+    }
+}
+
+@keyframes blinkTextCursor
+{
+    from
+    {
+        border-right-color: rgba (225, 225, 225, 0.75);
+    }
+    to
+    {
+        border-right-color: transparent;
+    }
+
+}
+
+.mean
+{
+  
+    width: 100%;
+    font-size:100%;  
+    text-align:left;
+    white-space: nowrap;
+    overflow: hidden; transform: translateY(-50%); 
+}
+
+.mean
+{
+   animation: typewriter 2s steps(20) 27s 1 normal both,
+   blinkTextCursor 200ms steps(20) infinite normal;  
+}
+
+@keyframes mean
+{
+    from 
+    {
+        width:0;
+    }
+    to
+    {
+        width:100%;
+    }
+}
+
+@keyframes blinkTextCursor
+{
+    from
+    {
+        border-right-color: rgba (225, 225, 225, 0.75);
+    }
+    to
+    {
+        border-right-color: transparent;
+    }
+}
+
+.megan
+{
+  
+    width: 100%;
+    font-size:100%;  
+    text-align:left;
+    white-space: nowrap;
+    overflow: hidden; transform: translateY(-50%); 
+}
+
+
+.megan
+{
+   animation: typewriter 2s steps(20) 30s 1 normal both,
+   blinkTextCursor 200ms steps(20) infinite normal;  
+}
+
+@keyframes megan
+{
+    from 
+    {
+        width:0;
+    }
+    to
+    {
+        width:100%;
+    }
+}
+
+@keyframes blinkTextCursor
+{
+    from
+    {
+        border-right-color: rgba (225, 225, 225, 0.75);
+    }
+    to
+    {
+        border-right-color: transparent;
+    }
+}  
+
+
+.ft
+{
+  
+    width: 100%;
+    font-size:100%;  
+    text-align:left;
+    white-space: nowrap;
+    overflow: hidden; transform: translateY(-50%); 
+}
+
+.ft
+{
+   animation: typewriter 2s steps(20) 33s 1 normal both,
+   blinkTextCursor 200ms steps(20) infinite normal;  
+}
+
+@keyframes ft
+{
+    from 
+    {
+        width:0;
+    }
+    to
+    {
+        width:100%;
+    }
+}
+
+@keyframes blinkTextCursor
+{
+    from
+    {
+        border-right-color: rgba (225, 225, 225, 0.75);
+    }
+    to
+    {
+        border-right-color: transparent;
+    }
+
+}
+    
+.i
+{
+  
+    width: 100%;
+    font-size:100%;  
+    text-align:left;
+    white-space: nowrap;
+    overflow: hidden; transform: translateY(-50%); 
+}
+
+
+.i
+{
+   animation: typewriter 2s steps(20) 36s 1 normal both,
+   blinkTextCursor 200ms steps(20) infinite normal;  
+}
+
+@keyframes i
+{
+    from 
+    {
+        width:0;
+    }
+    to
+    {
+        width:100%;
+    }
+}
+
+@keyframes blinkTextCursor
+{
+    from
+    {
+        border-right-color: rgba (225, 225, 225, 0.75);
+    }
+    to
+    {
+        border-right-color: transparent;
+    }
+
+}
+    
+.loveu
+{
+  
+    width: 100%;
+    font-size:100%;  
+    text-align:left;
+    white-space: nowrap;
+    overflow: hidden; transform: translateY(-50%); 
+}
+
+
+.loveu
+{
+   animation: typewriter 2s steps(20) 39s 1 normal both,
+   blinkTextCursor 200ms steps(20) infinite normal;  
+}
+
+@keyframes loveu
+{
+    from 
+    {
+        width:0;
+    }
+    to
+    {
+        width:100%;
+    }
+}
+
+@keyframes blinkTextCursor
+{
+    from
+    {
+        border-right-color: rgba (225, 225, 225, 0.75);
+    }
+    to
+    {
+        border-right-color: transparent;
+    }
+
+}
+    
+
+    
+.val
+{
+  
+    width: 100%;
+    font-size:100%;  
+    text-align:left;
+    white-space: nowrap;
+    overflow: hidden; transform: translateY(-50%); 
+}
+
+
+.val
+{
+   animation: typewriter 1s steps(300) 1s 1 normal both,
+   blinkTextCursor 100ms steps(300) infinite normal;  
+}
+
+@keyframes val
+{
+    from 
+    {
+        width:0;
+    }
+    to
+    {
+        width:100%;
+    }
+}
+
+@keyframes blinkTextCursor
+{
+    from
+    {
+        border-right-color: rgba (225, 225, 225, 0.75);
+    }
+    to
+    {
+        border-right-color: transparent;
+    }
+
+}
+
